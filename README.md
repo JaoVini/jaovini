@@ -1,7 +1,3 @@
-## ***Apresentação***
-###  *Opa! Me chamo, __João Vinícius,__ atualmente possuo vinte anos e trabalho como jovem aprendiz como Progamador de Sistemas de Informação na CDA Distribuidora.*
-### *Estou me formando como ***técnico em Informática*** e cogitando posteriormente formar-me em ***técnico de Redes de Computadores*** por intermédio do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN).*
-##
 ## ***Linguagens de Progamação***
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

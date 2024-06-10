@@ -1,3 +1,10 @@
+<div>
+<a href="https://github.com/vinitakahash">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jaovini&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaovini&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
+
 ## ***Linguagens de Progamação***
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -12,6 +19,3 @@
 
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-##
-## ***Banco de Dados***
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)

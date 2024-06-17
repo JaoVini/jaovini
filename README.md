@@ -7,18 +7,8 @@
 
 
 <div>
-<a href="https://github.com/jaovini">
+<a href="https://github.com/JaoVini">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jaovini&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaovini&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-  
-#
-## ***Bibliotecas e Frameworks***
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 

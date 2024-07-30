@@ -1,12 +1,8 @@
-_Eae! Me chamo Vinícius_ ✌️ 
 
+<ul>
+    <li>GitHub Status</li>
+</ul>
 
-
-<table>
-  <tr>
-    <td>GitHub Status</td>
-  </tr>
-</table>
 
 
 

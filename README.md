@@ -1,9 +1,20 @@
 _Eae! Me chamo Vinícius_ ✌️ 
 
-<hr>
+
+
+<table>
+  <tr>
+    <td>GitHub Status</td>
+  </tr>
+</table>
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaovini&layout=compact&show_icons=true&theme=github_dark)
 ![JaoVini GitHub stats](https://github-readme-stats.vercel.app/api?username=jaovini&hide=contribs,prs&show_icons=true&theme=github_dark)
+
+
+<hr>
 
 <br>
 

@@ -1,8 +1,9 @@
 
-<ul>
-    <li>GitHub Status</li>
-</ul>
-
+<table>
+    <tr>
+        <td>GitHub Status</td>
+    </tr>
+</table>
 
 
 
